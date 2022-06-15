@@ -1,0 +1,5 @@
+function Window() {
+	
+}
+
+setDrawablePrototype(Window);

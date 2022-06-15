@@ -1,0 +1,340 @@
+{
+	"root": {
+		"name": "/ (Root)",
+		"type": "Root",
+		"total": 2147483648,
+		"free": 2140483648,
+		"used": 7000000,
+		"contents": [
+			{
+				"name": "Apps",
+				"type": "Folder",
+				"contents":[
+					{
+						"name": "Files",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Files.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Color",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Color.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Photos",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Photos.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Settings",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Settings.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Lale",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Lale.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Messages",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Messages.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Notes",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Notes.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Text editor",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "TextEditor.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Terminal",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Terminal.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Calculator",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Calculator.js",
+								"type": "File"
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "System",
+				"type": "Folder",
+				"contents": [
+					{
+						"name": "AvdanOS.html",
+						"type": "File"
+					},
+					{
+						"name": "AvdanOS.js",
+						"type": "File"
+					}
+				]
+			},
+			{
+				"name": "Users",
+				"type": "Folder",
+				"contents": [
+					{
+						"name": "User",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "AppData",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Desktop",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Documents",
+								"type": "Folder",
+								"contents": [
+									{
+										"name": "Wallpapers",
+										"type": "Folder",
+										"contents": [
+											{
+												"name": "Wallpaper 1.png",
+												"type": "File",
+												"address": "images/backgrounds/AvdanOS.jpg"
+											},
+											{
+												"name": "Wallpaper 2.png",
+												"type": "File",
+												"address": "images/backgrounds/AvdanOSWallpaper.jpg"
+											},
+											{
+												"name": "Wallpaper 3.png",
+												"type": "File"
+											}
+										]
+									},
+									{
+										"name": "Brand Guidelines",
+										"type": "Folder",
+										"contents": []
+									},
+									{
+										"name": "Voice Recordings",
+										"type": "Folder",
+										"contents": []
+									},
+									{
+										"name": "Next Concepts",
+										"type": "Folder",
+										"contents": []
+									},
+									{
+										"name": "Project X",
+										"type": "Folder",
+										"contents": []
+									},
+									{
+										"name": "Eskişehir Trip",
+										"type": "Folder",
+										"contents": []
+									},
+									{
+										"name": "Patterns",
+										"type": "Folder",
+										"contents": []
+									},
+									{
+										"name": "Project M",
+										"type": "Folder",
+										"contents": []
+									},
+									{
+										"name": "Sound Effects",
+										"type": "Folder",
+										"contents": []
+									},
+									{
+										"name": "Season 4",
+										"type": "Folder",
+										"contents": []
+									},
+									{
+										"name": "Notes",
+										"type": "Folder",
+										"contents": []
+									}
+								]
+							},
+							{
+								"name": "Downloads",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Images",
+								"type": "Folder",
+								"contents": []
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"drives": []
+}
